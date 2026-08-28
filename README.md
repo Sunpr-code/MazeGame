@@ -61,7 +61,7 @@
 
 ### 🔹 方式一：直接运行 EXE（推荐）
 
-1. 前往 [Releases](https://github.com/yourusername/maze-game/releases) 下载 `maze.exe`
+1. 前往 [Releases](https://github.com/Sunpr-code/maze-game/releases) 下载 `maze.exe`
 2. 双击运行，无需安装任何环境
 
 ### 🔹 方式二：运行 Python 源码
