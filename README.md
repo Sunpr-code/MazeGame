@@ -1,0 +1,2 @@
+# Python_Labyrinth_Game
+一个使用Python开发的小游戏
