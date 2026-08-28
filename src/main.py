@@ -2,11 +2,11 @@
 import pygame
 import sys
 import time
-from config import COLORS
-from game_state import GameState
-from renderer import Renderer
-from ui import get_difficulty, show_rules, show_win, show_death
-from difficulty import DIFFICULTY_CONFIG
+from src.config import COLORS
+from src.game_state import GameState
+from src.renderer import Renderer
+from src.ui import get_difficulty, show_rules, show_win, show_death
+from src.difficulty import DIFFICULTY_CONFIG
 
 def rechoose_difficulty(state, renderer):
     from ui import get_difficulty, show_rules

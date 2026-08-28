@@ -1,8 +1,8 @@
 # ====== 游戏状态管理 ======
 import time
-from difficulty import DIFFICULTY_CONFIG
-from maze_gen import generate_solvable_maze, shortest_path_length
-from ui import show_wall_warning
+from src.difficulty import DIFFICULTY_CONFIG
+from src.maze_gen import generate_solvable_maze, shortest_path_length
+from src.ui import show_wall_warning
 
 class GameState:
     def __init__(self, difficulty):

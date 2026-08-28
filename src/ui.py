@@ -1,7 +1,7 @@
 # ====== UI 弹窗模块 ======
 import tkinter as tk
 from tkinter import messagebox, simpledialog
-from difficulty import DIFFICULTY_CONFIG
+from src.difficulty import DIFFICULTY_CONFIG
 
 def get_difficulty(title="🎯 选择难度"):
     root = tk.Tk()

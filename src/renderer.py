@@ -1,7 +1,7 @@
 # ====== 渲染模块 ======
 import pygame
-from config import COLORS, calculate_cell_size
-from pathfinder import get_next_direction
+from src.config import COLORS, calculate_cell_size
+from src.pathfinder import get_next_direction
 
 class Renderer:
     def __init__(self, state):
